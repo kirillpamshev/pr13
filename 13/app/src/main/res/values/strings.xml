@@ -1,0 +1,7 @@
+<resources>
+    //
+    <string name="app_name">pr13</string>
+    <string name="error">Произошла ошибка. Проверьте интернет-соединение</string>
+    <string name="get">GET</string>
+    <string name="_2000">2000</string>
+</resources>
